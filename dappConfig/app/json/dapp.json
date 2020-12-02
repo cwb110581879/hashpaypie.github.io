@@ -1,9 +1,9 @@
 {
     "dapps": [{
         "name": "DeFi Era",
-        "url": "http://defiear.gitee.io/#/index",
+        "url": "http://hashpay.gitee.io/#/index",
         "des": "DeFi Era",
-        "logo": "http://defiear.gitee.io/dappConfig/app/imgs/dappLogo/defieraLogo.png"
+        "logo": "http://hashpay.gitee.io/dappConfig/app/imgs/dappLogo/defieraLogo.png"
     }],
     "banners": [{
         "image": "banner1.png",
